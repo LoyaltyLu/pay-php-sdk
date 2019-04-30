@@ -1,7 +1,7 @@
 {
   "type": "library",
-  "name": "zoujingli/pay-php-sdk",
-  "homepage": "https://github.com/zoujingli/pay-php-sdk",
+  "name": "LoyaltyLu/pay-php-sdk",
+  "homepage": "https://github.com/LoyaltyLu/pay-php-sdk",
   "description": "WxPay and AliPay development of SDK",
   "license": "MIT",
   "keywords": [
